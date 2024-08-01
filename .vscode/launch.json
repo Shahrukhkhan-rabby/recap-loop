@@ -1,13 +1,13 @@
 {
-    "version": "v20.15.0.",
-    "configurations": [
-      {
-        "type": "node",
-        "request": "launch",
-        "name": "Launch Program",
-        "skipFiles": ["<node_internals>/**"],
-        "program": "${workspaceFolder}/for-loop.js"
-      }
-    ]
-  }
-  
+  "version": "v20.15.0.",
+  "configurations": [
+    
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Launch Program",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}/array-loop.js"
+    }
+  ]
+}
